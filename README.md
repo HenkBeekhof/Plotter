@@ -22,5 +22,8 @@ The information can also be found on Pinshape:
 https://pinshape.com/items/46225-3d-printed-a0-flexible-sized-plotter-including-software
 
 For pictures: See the manual, or see Pinshape.
+![plotter](https://github.com/HenkBeekhof/Plotter/images/3d-plotter.png "When ready it looks like this")
 
- 
+![Darth Vader Plot](https://github.com/HenkBeekhof/Plotter/images/DV_plot.png "Darth Vader Plot")
+
+![Starbucks Plot](https://github.com/HenkBeekhof/Plotter/images/Starbucks_plot.png "Starbucks Plot") 
